@@ -32,6 +32,10 @@
     <Compile Include="CareersWebsite\__init__.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CareersWebsite\static\content\site.css" />
+    <Content Include="CareersWebsite\static\images\banner.jpg" />
+    <Content Include="CareersWebsite\templates\index.html" />
+    <Content Include="CareersWebsite\templates\jobitem.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
@@ -50,6 +54,7 @@
     <Folder Include="CareersWebsite\static\content\" />
     <Folder Include="CareersWebsite\static\" />
     <Folder Include="CareersWebsite\static\fonts\" />
+    <Folder Include="CareersWebsite\static\images\" />
     <Folder Include="CareersWebsite\static\scripts\" />
     <Folder Include="CareersWebsite\templates\" />
   </ItemGroup>
