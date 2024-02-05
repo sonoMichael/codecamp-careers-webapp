@@ -36,6 +36,7 @@
     <Content Include="CareersWebsite\static\images\banner.jpg" />
     <Content Include="CareersWebsite\templates\index.html" />
     <Content Include="CareersWebsite\templates\jobitem.html" />
+    <Content Include="CareersWebsite\templates\nav.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
